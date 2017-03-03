@@ -1,0 +1,26 @@
+{
+  "name": "octopug",
+  "version": "1.0.0",
+  "description": "pug mixin to automagically create a clean, modern GitHub corner link",
+  "main": "octopug.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vivshaw/octopug.git"
+  },
+  "keywords": [
+    "github",
+    "pug"
+  ],
+  "author": "vivshaw <hvivianshaw@gmail.com> (https:/vivshaw.github.io)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/vivshaw/octopug/issues"
+  },
+  "homepage": "https://github.com/vivshaw/octopug#readme",
+  "dependencies": {
+    "pug": "^2.0.0-beta11"
+  }
+}
