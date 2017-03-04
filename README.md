@@ -15,4 +15,10 @@ include /node_modules/octopug/octopug.pug
 ```
 
 `bgColor` & `catColor` should be strings containing a CSS color.
-`bgColor` defaults to `'#000'`, catColor defaults to `'#fff'`.
+`bgColor` defaults to `'#000'`, `catColor` defaults to `'#fff'`.
+
+## License & Acknowledgements
+
+Not built or endorsed by GitHub; just a fan. Octocat logo belongs to & represents GitHub.
+
+GitHub corner design (c) 2016 Tim Holman - [http://tholman.com](http://tholman.com)
