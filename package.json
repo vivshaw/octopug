@@ -1,6 +1,6 @@
 {
   "name": "octopug",
-  "version": "1.0.0",
+  "version": "0.0.1",
   "description": "pug mixin to automagically create a clean, modern GitHub corner link",
   "main": "octopug.js",
   "scripts": {

@@ -1,4 +1,6 @@
-mixin octopug(link, fg, bg)
+mixin octopug(link, bg, cat)
+  - if (!bg) var fg = '#000'
+  - if (!cat) var cat = '#fff'
   a(href=link class='github-corner' aria-label='View source on Github')
     svg(id='octocat' width='80' height='80' viewBox='0 0 250 250' aria-hidden='true')
       path(d='M0,0 L115,115 L130,115 L142,142 L250,250 L250,0 Z')
@@ -7,8 +9,8 @@ mixin octopug(link, fg, bg)
     
     style.
       #octocat {
-        fill: #{fg};
-        color: #{bg};
+        fill: #{bg};
+        color: #{cat};
         position: absolute;
         top: 0;
         border: 0;
