@@ -1,5 +1,5 @@
 # octopug
-Pug mixin for a @tholman-style GitHub corner
+Pug mixin for a [tholman-style GitHub corner](http://tholman.com/github-corners/)
 
 ## Usage
 ```
