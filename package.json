@@ -1,7 +1,7 @@
 {
   "name": "octopug",
   "version": "0.1.1",
-  "description": "pug mixin to automagically create a clean, modern GitHub corner link",
+  "description": "Pug mixin to automagically add tholman's clean, modern GitHub corner",
   "main": "octopug.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
